@@ -12,3 +12,6 @@ Early prototype. Actively evolving.
 
 ## Contact
 Founder: Keerthikrishna Gamasany
+Copyright © 2026 Keerthikrishna Gamasany
+
+Licensed under the Apache License 2.0
